@@ -1,4 +1,4 @@
-# Chips-au-Sucre
+# Projet 1
 Repository du projet 1 de la Wild Code School, réaliser le clonage du site "TechNews.fr"
 ## Equipe composé de :
 * Arthur Jouanneau (Section "Jeux")
