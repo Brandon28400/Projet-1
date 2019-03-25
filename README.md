@@ -1,6 +1,5 @@
 # Chips-au-Sucre
-Repository du projet 1 de la Wild Code School
-Réalisé le clonage du site "TechNews.fr"
+Repository du projet 1 de la Wild Code School, réaliser le clonage du site "TechNews.fr"
 ## Equipe composé de :
 * Arthur Jouanneau
 * Brandon Rabour
